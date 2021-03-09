@@ -6,8 +6,24 @@ function App() {
     <div className="Portfolio">
       <div className="Portfolio-grid">
         <header className="Portfolio-header">
-          <h1>Alexandra Sandoval</h1>
-          <div>
+          <div className="header-logo">
+            <h1>AS</h1>
+          </div>
+          <div className="header-sections">
+            <div>
+              <text>About</text>
+            </div>
+            <div>
+              <text>Work</text>
+            </div>
+            <div>
+              <text>Resume</text>
+            </div>
+            <div>
+              <text>Contact</text>
+            </div>
+          </div>
+          <div className="header-icons">
             <text>icons will go here</text>
           </div>
         </header>
