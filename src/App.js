@@ -6,7 +6,7 @@ function App() {
     <div className="Portfolio">
       <div className="Portfolio-grid">
         <header className="Portfolio-header">
-          <p>Alexandra Sandoval</p>
+          <h1>Alexandra Sandoval</h1>
           <div>
             <text>icons will go here</text>
           </div>
