@@ -24,7 +24,9 @@ function App() {
             </div>
           </div>
           <div className="header-icons">
-            <text>icons will go here</text>
+            <i class="icon-github icon-2x"></i>
+            <i class="icon-linkedin icon-2x"></i>
+            <i class="icon-file icon-2x"></i>
           </div>
         </header>
       </div>
