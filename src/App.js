@@ -7,7 +7,7 @@ function App() {
       <div className="Portfolio-grid">
         <header className="Portfolio-header">
           <div className="header-logo">
-            <h1>AS</h1>
+            <h1>alex</h1>
           </div>
           <div className="header-sections">
             <div>
@@ -24,9 +24,9 @@ function App() {
             </div>
           </div>
           <div className="header-icons">
-            <i class="icon-github icon-2x"></i>
-            <i class="icon-linkedin icon-2x"></i>
-            <i class="icon-file icon-2x"></i>
+            <i class="icon-github icon-large"></i>
+            <i class="icon-linkedin icon-large"></i>
+            <i class="icon-file icon-large"></i>
           </div>
         </header>
       </div>
