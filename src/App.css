@@ -22,7 +22,7 @@
   max-width: 1008px;
   height: 72px;
   display: grid;
-  grid-template-columns: auto auto 25%;
+  grid-template-columns: 86px auto 25%;
   border: solid black 1px;
   align-items: center;
   justify-items: center;
@@ -45,9 +45,15 @@
   font-family: none;
   font-weight: 100;
   grid-area: 1/2;
-  display: flex;
   justify-self: left;
+  width: 100%;
+  display: flex;
+  justify-content: left;
   font-size: 98%;
+}
+
+.header-sections div {
+  margin: 0 6px;
 }
 
 .header-icons {
